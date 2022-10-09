@@ -1,6 +1,8 @@
 # Hepehdgh141
 
 ![Python](https://img.shields.io/badge/python-3.9-blue?style=flat&logo=python)
+![Html](https://img.shields.io/badge/HTML--e44d26?style=flat&logo=HTML5)
+[![CSS3](https://img.shields.io/badge/CSS--2965f1?style=flat&logo=CSS3)](https://www.w3.org/TR/CSS/#css)
 
 ---
 
