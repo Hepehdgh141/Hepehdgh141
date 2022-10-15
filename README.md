@@ -6,16 +6,15 @@
 <a href="https://hepehdgh141.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
 <a href="https://dev.to/hepehdgh141"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
 
-![Python](https://img.shields.io/badge/python-3.9-blue?style=flat&logo=python)
-![Html](https://img.shields.io/badge/HTML--e44d26?style=flat&logo=HTML5)
-[![CSS3](https://img.shields.io/badge/CSS--2965f1?style=flat&logo=CSS3)](https://www.w3.org/TR/CSS/#css)
+<!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
+![Html](https://img.shields.io/badge/-HTML-e44d26?style=for-the-badge&logo=HTML5&labelColor=black)
+![CSS3](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&labelColor=black&logoColor=2965f2)
 
 ---
 
 ## 스탯
  
-<a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hepehdgh141&show_icons=true&include_all_commits=true&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFFF" alt="Anurag's github stats" /></a>  <a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepehdgh141&layout=compact&theme=onedark&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFF" /></a> 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hepehdgh141&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFF)](https://github.com/Hepehdgh141)
+<a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hepehdgh141&show_icons=true&include_all_commits=true&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFFF" alt="Anurag's github stats" /></a>  <a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepehdgh141&layout=compact&theme=onedark&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFF" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hepehdgh141&theme=dark&locale=ko&ring=E5E5E5&currStreakLabel=FF8300)](https://github.com/Hepehdgh141)
 
 ---
