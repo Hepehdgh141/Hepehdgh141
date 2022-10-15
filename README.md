@@ -9,6 +9,7 @@
 <!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
 ![Html](https://img.shields.io/badge/-HTML-e44d26?style=for-the-badge&logo=HTML5&labelColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&labelColor=black&logoColor=2965f2)
+![Python](https://img.shields.io/badge/-Python-1877B0?style=for-the-badge&logo=Python&labelColor=black&logoColor=1C86C6)
 
 ---
 
