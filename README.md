@@ -18,6 +18,81 @@
 <a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hepehdgh141&show_icons=true&include_all_commits=true&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFFF" alt="Anurag's github stats" /></a>  <a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepehdgh141&layout=compact&theme=onedark&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFF" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hepehdgh141&theme=dark&locale=ko&ring=E5E5E5&currStreakLabel=FF8300)](https://github.com/Hepehdgh141)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2030%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 76 Contributions in the Year 2022
+ > 
+> 📦 941 Bytes Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
+🌆 Daytime    34 commits     ████████████░░░░░░░░░░░░░   47.89% 
+🌃 Evening    27 commits     █████████░░░░░░░░░░░░░░░░   38.03% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    19 commits     ██████░░░░░░░░░░░░░░░░░░░   26.76% 
+Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     28 commits     █████████░░░░░░░░░░░░░░░░   39.44% 
+Sunday       23 commits     ████████░░░░░░░░░░░░░░░░░   32.39%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+CSS                      1 hr 11 mins        ███████████████░░░░░░░░░░   59.76% 
+HTML                     46 mins             █████████░░░░░░░░░░░░░░░░   39.05% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
+
+🔥 Editors: 
+VS Code                  2 hrs               █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Clone_coding             1 hr 42 mins        █████████████████████░░░░   85.52% 
+html                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.48%
+
+💻 Operating System: 
+Windows                  2 hrs               █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   1 repo              █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Hepehdgh141/Hepehdgh141/main/charts/bar_graph.png) 
+
+
+ Last Updated on 22/10/2022 03:38:31 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hepehdgh141&repo=AOMPL&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFF)](https://github.com/Hepehdgh141/AOMPL)
