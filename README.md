@@ -17,8 +17,8 @@
  
 <a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hepehdgh141&show_icons=true&include_all_commits=true&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFFF" alt="Anurag's github stats" /></a>  <a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepehdgh141&layout=compact&theme=onedark&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFF" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hepehdgh141&theme=dark&locale=ko&ring=E5E5E5&currStreakLabel=FF8300)](https://github.com/Hepehdgh141)
-
----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hepehdgh141&repo=AOMPL&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFF)](https://github.com/Hepehdgh141/AOMPL)
 
