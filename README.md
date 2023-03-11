@@ -17,68 +17,7 @@
  
 <a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hepehdgh141&show_icons=true&include_all_commits=true&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&title_color=CCCCCC&border_color=FFFFFF" alt="Anurag's github stats" /></a>  <a href="https://github.com/Hepehdgh141"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepehdgh141&layout=compact&theme=onedark&hide_border=true&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&title_color=CCCCCC&border_color=FFFFF" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hepehdgh141&theme=dark&ring=E5E5E5&currStreakLabel=FF8300)](https://github.com/Hepehdgh141)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2030%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 82 Contributions in the Year 2022
- > 
-> 📦 1.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
-🌆 Daytime    41 commits     █████████████░░░░░░░░░░░░   51.9% 
-🌃 Evening    28 commits     ████████░░░░░░░░░░░░░░░░░   35.44% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    19 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
-Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
-Saturday     35 commits     ███████████░░░░░░░░░░░░░░   44.3% 
-Sunday       23 commits     ███████░░░░░░░░░░░░░░░░░░   29.11%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   1 repo              █████████████████████████   100.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Hepehdgh141/Hepehdgh141/main/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hepehdgh141&repo=AOMPL&bg_color=181818&hide_title=false&text_color=E5E5E5&icon_color=FFFFFF&locale=kr&title_color=CCCCCC&border_color=FFFFF)](https://github.com/Hepehdgh141/AOMPL)
 
